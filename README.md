@@ -47,7 +47,7 @@ pdfbruter has been tested on the following systems and certain that they work;
 ![](pdfbruter.png)
 
 # Password Gotten 
-![](pdfbruter-logo.png)
+![](pdfbruter-found.png)
 
 # Wanna encourage us? 
 To be able to encourage AnonyminHack5 with he's tools, make sure you use and rate he's <a href="https://t.me/Termux1_bot">Telegram bot</a>
