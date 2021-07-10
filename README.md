@@ -90,7 +90,7 @@ To be able to encourage AnonyminHack5 with he's tools, make sure you use and rat
 > python3 pdfbruter.py --help
 ```
 
-# Installation for Termux
+# Installation for Termux ONLY!+
 ```
 git clone https://github.com/TermuxHackz/pdfbruter
 
@@ -98,7 +98,7 @@ cd pdfbruter
 
 chmod +x *
 
-python3 termux-installenc.py
+python3 dependencies.py
 
 python3 pdfbruter.py
 ```
