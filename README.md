@@ -152,3 +152,7 @@ DO NOT COPY AND MODIFY THIS SCRIPT <b>LEECHERS BEWARE</b>
   #### > [+] Telegram Channel: <a href="https://t.me/termuxhackz1" target="_blank">TermuxHackz Society Channel</a>
   #### > [+] VMware Workstation pro for free: <a href="http://vmwaredownload.6te.net" target="_blank">Download VMware WorkStation for free with pro free license keys</a>
   
+  # Warning!!
+  **Dear noobs/leechers, do not copy this code or try to modify it to make it yours, it took me a lot of time to make this script. Do not copy it, Dont be a Script Kiddie. Asshole...hahaha!!. Message from AnonyminHack5.**
+  *Still want to message me, Message me on whatsapp <a href="https://wa.me/+2349033677589?text=Hello+AnonyminHack5+I+am ">here</a>*
+  
