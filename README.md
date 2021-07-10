@@ -72,7 +72,7 @@ To be able to encourage AnonyminHack5 with he's tools, make sure you use and rat
 
 ```
 
-# Installation for Termux/Unix/Linux ONLY!!!
+# Installation for Linux ONLY!!!
 
 ```
 > cd $HOME
@@ -89,6 +89,20 @@ To be able to encourage AnonyminHack5 with he's tools, make sure you use and rat
 
 > python3 pdfbruter.py --help
 ```
+
+# Installation for Termux
+```
+git clone https://github.com/TermuxHackz/pdfbruter
+
+cd pdfbruter
+
+chmod +x *
+
+python3 termux-install.py
+
+python3 pdfbruter.py
+```
+
 # Attention
 Since pdfbruter is an offline password Cracking Tools for PDF files, Cracking process may take time and you need to wait and have patience, and in the mean time you could go grab a cup of coffee or watch some movies or have some snacks...lol (Save some for me, haha) then come back and check the pdfbruter.
 
