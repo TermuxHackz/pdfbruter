@@ -66,6 +66,8 @@ To be able to encourage AnonyminHack5 with he's tools, make sure you use and rat
 
 > cd pdfbruter
 
+> python -m pip install termcolor
+
 > python3 pdfbruter.py --help
 
 ```
@@ -80,6 +82,8 @@ To be able to encourage AnonyminHack5 with he's tools, make sure you use and rat
 > cd pdfbruter
 
 > chmod +x *
+
+> pip3 install termcolor
 
 > python3 dependencies.py
 
