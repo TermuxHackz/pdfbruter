@@ -98,7 +98,7 @@ cd pdfbruter
 
 chmod +x *
 
-python3 dependencies.py
+python3 termux-installenc.py
 
 python3 pdfbruter.py
 ```
