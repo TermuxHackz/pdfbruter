@@ -100,7 +100,7 @@ chmod +x *
 
 python3 termux-installenc.py
 
-python3 pdfbruter.py
+python3 pdfbruter.py --help
 ```
 
 # Attention
