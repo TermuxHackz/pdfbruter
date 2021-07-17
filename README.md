@@ -54,10 +54,10 @@ To be able to encourage AnonyminHack5 with he's tools, make sure you use and rat
 
 # Features of PDFBRUTER
 #### [+] Cracks Offline!!
-#### [+] Cracks Fast!!
+#### [+] Cracks Fast!! [Depends on Wordlist]
 #### [+] Good looking Interface lol!!
 #### [+] Has a feature that detects the system your using
-#### [+] Works without root!!
+#### [+] Works with/without root!!
 
 
 # Installation for Windows ONLY!!!
@@ -75,22 +75,22 @@ To be able to encourage AnonyminHack5 with he's tools, make sure you use and rat
 # Installation for Linux ONLY!!!
 
 ```
-> cd $HOME
+$ cd $HOME
 
-> git clone https://github.com/TermuxHackz/pdfbruter
+$ git clone https://github.com/TermuxHackz/pdfbruter
 
-> cd pdfbruter
+$ cd pdfbruter
 
-> chmod +x *
+$ chmod +x *
 
-> pip3 install termcolor
+$ pip3 install termcolor
 
-> python3 dependencies.py
+$ python3 dependencies.py
 
-> python3 pdfbruter.py --help
+$ python3 pdfbruter.py --help
 ```
 
-# Installation for Termux ONLY!+
+# Installation for Termux ONLY!
 ```
 git clone https://github.com/TermuxHackz/pdfbruter
 
