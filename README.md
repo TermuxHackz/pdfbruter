@@ -92,6 +92,8 @@ $ python3 pdfbruter.py --help
 
 # Installation for Termux ONLY!
 ```
+cd $HOME
+
 git clone https://github.com/TermuxHackz/pdfbruter
 
 cd pdfbruter
