@@ -158,3 +158,8 @@ DO NOT COPY AND MODIFY THIS SCRIPT <b>LEECHERS BEWARE</b>
   **Dear noobs/leechers, do not copy this code or try to modify it to make it yours, it took me a lot of time to make this script. Do not copy it, Dont be a Script Kiddie. Asshole...hahaha!!. Message from AnonyminHack5.**
   *Still want to message me, Message me on whatsapp <a href="https://wa.me/+2349033677589?text=Hello+AnonyminHack5+I+am ">here</a>*
   
+# FAQs
+#### > [1] I am having errors like Module import error as shown below
+![](Error.jpg)
+
+**Answer**: For those who are facing or having similar issues like this, kindly type <code>pip install pikepdf</code> and the error would be fixed then lastly type <code>python3 pdfbruter.py --help</code> to Start the pdfbruter and it would continue to work fine without any error.
