@@ -67,6 +67,8 @@ To be able to encourage AnonyminHack5 with he's tools, make sure you use and rat
 > cd pdfbruter
 
 > python -m pip install termcolor
+  
+> pip install pikepdf
 
 > python3 pdfbruter.py --help
 
@@ -84,6 +86,8 @@ $ cd pdfbruter
 $ chmod +x *
 
 $ pip3 install termcolor
+  
+$ pip install pikepdf
 
 $ python3 dependencies.py
 
@@ -99,6 +103,8 @@ git clone https://github.com/TermuxHackz/pdfbruter
 cd pdfbruter
 
 chmod +x *
+  
+pip install pikepdf
 
 python3 termux-installenc.py
 
@@ -147,12 +153,12 @@ DO NOT COPY AND MODIFY THIS SCRIPT <b>LEECHERS BEWARE</b>
 
 # Contact me
   #### > [+] Facebook: <a href="https://facebook.com/AnonyminHack5" target="_blank">AnonyminHack5</a>
-  #### > [+] Whatsapp: <a href="https://wa.me/+2349033677589?text=Hi+AnonyminHack5+my+name+is+ ">AnonyminHack5 | Tech</a>
+  #### > [+] Whatsapp: <a href="https://wa.me/+2349033677589?text=Hi+AnonyminHack5+my+name+is+ ">AnonyminHack5</a>
   #### > [+] Twitter: <a href="https://twitter.com/AnonyminHack5" target="_blank">AnonyminHack5</a>
   #### > [+] Telegram: <a href="https://t.me/AnonyminHack5" target="_blank">AnonyminHack5</a>
   #### > [+] Telegram Bot: <a href="https://t.me/Termux1_bot" target="_blank">Termux Bot</a>
   #### > [+] Telegram Channel: <a href="https://t.me/termuxhackz1" target="_blank">TermuxHackz Society Channel</a>
-  #### > [+] VMware Workstation pro for free: <a href="http://vmwaredownload.6te.net" target="_blank">Download VMware WorkStation for free with pro free license keys</a>
+  #### > [+] VMware Workstation pro for free: <a href="http://vmwaredownload.6te.net" target="_blank">Download VMware WorkStation for free</a>
   
   # Warning!!
   **Dear noobs/leechers, do not copy this code or try to modify it to make it yours, it took me a lot of time to make this script. Do not copy it, Dont be a Script Kiddie. Asshole...hahaha!!. Message from AnonyminHack5.**
