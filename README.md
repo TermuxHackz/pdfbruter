@@ -159,6 +159,8 @@ DO NOT COPY AND MODIFY THIS SCRIPT <b>LEECHERS BEWARE</b>
   #### > [+] Telegram Bot: <a href="https://t.me/Termux1_bot" target="_blank">Termux Bot</a>
   #### > [+] Telegram Channel: <a href="https://t.me/termuxhackz1" target="_blank">TermuxHackz Society Channel</a>
   #### > [+] VMware Workstation pro for free: <a href="http://vmwaredownload.6te.net" target="_blank">Download VMware WorkStation for free</a>
+  # Donations
+  <p>Your donations can be sent to AnonyminHack5 to support him via paypal here => <a href="https://paypal.me/kwasconcept" target="_blank">Click to donate to AnonyminHack5</a></p>
   
   # Warning!!
   **Dear noobs/leechers, do not copy this code or try to modify it to make it yours, it took me a lot of time to make this script. Do not copy it, Dont be a Script Kiddie. Asshole...hahaha!!. Message from AnonyminHack5.**
